@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyFabStyle" parent="Widget.MaterialComponents.FloatingActionButton">
+        <item name="maxImageSize">56dp</item> <!-- Set maximum image size -->
+        <item name="contentPadding">0dp</item> <!-- Reduce padding to make the image bigger -->
+    </style>
+</resources>
