@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1087946206819",
+    "project_id": "shiftmaster-e1f55",
+    "storage_bucket": "shiftmaster-e1f55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087946206819:android:37060dc6e620a937f35256",
+        "android_client_info": {
+          "package_name": "com.nunezdev.shiftmaster"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy4x4z50-WIl4EIOFSAVV4ZNVSA31ZDC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
